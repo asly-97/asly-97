@@ -13,7 +13,7 @@
   
 - 📫 How to reach me:
   - Gmail: abdeljabbar.elassali@gmail.com
-  - <a href="https://linkedin.com/in/sh186752" target="_blank">LinkedIn</a>
+  - <a href="https://linkedin.com/in/sh186752" target="_blank" >LinkedIn</a>
   - <a href="https://twitter.com/asly_97" target="_blank">Twitter</a>
   - <a href="https://instagram.com/asly_97" target="_blank">Instagram</a>
   - <a href="https://facebook.com/asly1997" target="_blank">Facebook</a>
