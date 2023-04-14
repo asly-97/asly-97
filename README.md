@@ -12,6 +12,7 @@
   - Embedded Systems
   - Arduino (C/ C++)
   - Raspbery Pi (Python)
+  - Amazon Web Services
   
 - 📫 How to reach me:
   - Gmail: contact@asly97.com
