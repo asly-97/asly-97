@@ -1,18 +1,21 @@
 - 👋 Hi, I’m **Abdeljabbar Elassali**, you can just call me **Asly** as a shortcut nickname :)
 - 👀 I’m interested in mobile app development, game development, and IoT engineering
-- 🌱 I’m currently practicing **Flutter** & **Unity 3D**
-- My skills:
+- 🌱 My skills:
   - Android Studio (Java/ XML/ Flutter/ Dart)
+  - Restfull API
   - Unity 3D (C#)
   - Xcode
   - Adobe Photoshop
   - Adobe XD
   - Inkscape
+  - IoT
+  - Embedded Systems
   - Arduino (C/ C++)
   - Raspbery Pi (Python)
   
 - 📫 How to reach me:
-  - Gmail: abdeljabbar.elassali@gmail.com
+  - Gmail: contact@asly97.com
+  - <a href="https://asly_97.com" target="_blank">www.Asly97.com</a>
   - <a href="https://linkedin.com/in/sh186752" target="_blank" >LinkedIn</a>
   - <a href="https://twitter.com/asly_97" target="_blank">Twitter</a>
   - <a href="https://instagram.com/asly_97" target="_blank">Instagram</a>
